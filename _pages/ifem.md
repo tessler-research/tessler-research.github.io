@@ -3,10 +3,10 @@ layout: default
 permalink: /ifem/
 ---
 
-## Inverse Finite Element Method ![](/business-frontpage/assets/img/ifem_logo_header.png){:.image-left}
+## Inverse Finite Element Method ![](/assets/img/ifem_logo_header.png){:.image-left}
 
 
-![](/business-frontpage/assets/img/iMin3.jpg){:.image-left}
+![](/assets/img/iMin3.jpg){:.image-left}
 
 Structural health management systems, which by way of real-time monitoring
 help mitigate accidents due to structural failures, will become integral
