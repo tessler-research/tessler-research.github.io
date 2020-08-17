@@ -1,0 +1,17 @@
+- title: Home
+  link: /
+
+- title: About
+  link: /about/
+
+- title: iFEM
+  link: "/ifem/"
+
+- title: RZT
+  link: "/rzt/"
+
+- title: Services
+  link: "/services/"
+
+- title: Contact
+  link: "/contact/"
