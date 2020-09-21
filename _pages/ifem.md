@@ -19,12 +19,15 @@ efficient physics-based algorithms.
 
 
 The inverse problem of real-time reconstruction of full-field structural displacements,
-strains, and stresses is addressed using an inverse finite element method based on shear
+strains, and stresses is addressed using an inverse finite element method (iFEM) based on shear
 deformable shell finite element technology. Utilizing surface strain measurements from
 strain sensors mounted on load-carrying structural components, the methodology enables
 accurate computations of the three-dimensional displacement field for a general built-up
 shell structure undergoing multi-axial deformations. The strain and stress computations
 are then carried out at the element level using strain-displacement and constitutive
-relations. This high fidelity computational technology is essential for providing
-feedback to the actuation and control systems of the next generation of aerospace vehicles,
-and for assessing real-time internal loads and structural integrity.
+relations.
+
+The iFEM technology is designed for real-time identification of structural response and failure of complex structures and components subjected to service loads. Potential applications include:
+(a) Real-time Structural Health Monitoring/Management (SHM): Structural health monitoring involves the embedding of sensors into a structure to allow continuous remote monitoring of structural response and potential damage events. For this application, iFEM can be viewed as the key technology for determining displacements, strains, and stresses using the actual strain-sensor data.
+(b) Morphing wing technology: Morphing wings involve structures that automatically reconfigure their shapes and surface textures to adapt to monitored changes in flying conditions. Full-field, real-time reconstruction of structural displacements is necessary in order to provide feedback from embedded fiber-optic strain sensors to the actuation and control systems.
+
