@@ -3,7 +3,7 @@ layout: default
 permalink: /ifem/
 ---
 
-## Inverse Finite Element Method ![](/assets/img/ifem_logo_header.png){:.image-left}
+## Inverse Finite Element Method ![](/assets/img/iFEM_logo.png){:.image-left :height="120px" width="120px"}
 
 
 ![](/assets/img/iMin3.jpg){:.image-left}
@@ -30,4 +30,3 @@ relations.
 The iFEM technology is designed for real-time identification of structural response and failure of complex structures and components subjected to service loads. Potential applications include:
 (a) Real-time Structural Health Monitoring/Management (SHM): Structural health monitoring involves the embedding of sensors into a structure to allow continuous remote monitoring of structural response and potential damage events. For this application, iFEM can be viewed as the key technology for determining displacements, strains, and stresses using the actual strain-sensor data.
 (b) Morphing wing technology: Morphing wings involve structures that automatically reconfigure their shapes and surface textures to adapt to monitored changes in flying conditions. Full-field, real-time reconstruction of structural displacements is necessary in order to provide feedback from embedded fiber-optic strain sensors to the actuation and control systems.
-

@@ -3,9 +3,11 @@ layout: default
 permalink: /rzt/
 ---
 
-## Refined Zigzag Theory
+## Refined Zigzag Theory ![](/assets/img/RZT_Logo.png){:.image-left :height="120px" width="120px"}
+
 ![](/assets/img/rzt_1.jpg)
 ![](/assets/img/rzt_2.jpg)
+
 
 The Refined Zigzag Theory (RZT) for homogeneous, laminated composite and sandwich
         plates is developed from a multi-scale formalism starting with the inplane
