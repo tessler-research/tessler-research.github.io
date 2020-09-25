@@ -1,9 +1,11 @@
 ---
 layout: default
 permalink: /rzt/
+logo_path: '<img src="/assets/img/RZT_Logo.png" alt="RZT Logo" width="200"></img>'
 ---
 
-## Refined Zigzag Theory ![](/assets/img/RZT_Logo.png){:.image-left :height="120px" width="120px"}
+## Refined Zigzag Theory
+<!-- ![](/assets/img/RZT_Logo.png){:.image-left :height="120px" width="120px"} -->
 
 ![](/assets/img/rzt_1.jpg)
 ![](/assets/img/rzt_2.jpg)

@@ -1,9 +1,10 @@
 ---
 layout: default
 permalink: /ifem/
+logo_path: '<img src="/assets/img/iFEM_Logo.png" alt="iFEM Logo" width="200"></img>'
 ---
 
-## Inverse Finite Element Method ![](/assets/img/iFEM_logo.png){:.image-left :height="120px" width="120px"}
+## Inverse Finite Element Method 
 
 
 ![](/assets/img/iMin3.jpg){:.image-left}
