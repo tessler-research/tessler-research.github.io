@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /services/
+logo_path: '<img src="/assets/img/iFEM_Logo.png" alt="iFEM Logo" width="200"></img><img src="/assets/img/RZT_Logo.png" alt="RZT Logo" width="200"></img>'
 ---
 
 ## Onboard structural health monitoring
@@ -11,6 +12,6 @@ TRA currently provides a robust finite element capability using an efficient and
 
 ## Analysis of laminated composites, sandwich structures, and delaminations
 
-TRA (Tessler and co-authors; originated in 2007) developed a computationally efficient and highly accurate theoretical framework for the analysis of multilayered laminated composites and sandwich structures that can also include delaminations. The theory is known as the Refined Zigzag Theory (RZT). RZT is well suited for finite element analysis and has been implemented by various finite element models. 
+TRA (Tessler and co-authors; originated in 2007) developed a computationally efficient and highly accurate theoretical framework for the analysis of multilayered laminated composites and sandwich structures that can also include delaminations. The theory is known as the Refined Zigzag Theory (RZT). RZT is well suited for finite element analysis and has been implemented by various finite element models.
 
 TRA currently provides a robust RZT-based finite element capability using an efficient and accurate three-node shear deformable shell element. The element formulation is implemented as a user-element subroutine (UEL) that runs in the widely used commercial finite element software, ABAQUS. Additional element types have also been developed including a two-node beam element and a four-node shell element. These capabilities can also be made available as UEL's for ABAQUS.
