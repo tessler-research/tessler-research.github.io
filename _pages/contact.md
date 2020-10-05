@@ -8,7 +8,7 @@ permalink: /contact/
 <div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
-        <form class="form-horizontal" action="#" method="post">
+        <form class="form-horizontal" action="https://getform.io/f/7ba51115-a7ba-4e57-b506-0e5b8fe23618" method="post">
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
